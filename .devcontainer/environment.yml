@@ -8,4 +8,5 @@ dependencies:
   - pip:
     - pep8-naming
     - flake8-isort
+    - pytest
 prefix: /opt/conda
