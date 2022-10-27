@@ -1,5 +1,7 @@
 # diffstrings
 
+![License](https://img.shields.io/github/license/Uguudei/diffstrings)
+
 Show difference of strings in color.
 
 It extends difflib.SequenceMatcher class and provides a direct function too.
