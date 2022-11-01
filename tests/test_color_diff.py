@@ -1,4 +1,4 @@
-from src.color_diff import diff_strings
+from diffstrings.color_diff import diff_strings
 
 truth = 'Lorem ipsum dolor sit amet,consectetur adipiscing elit,  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.f'
 predict = 'Lorem furio dlfgor sit amet, consectetur apiscbgfing elit, sed do eiusmod tempor inciddfbunt ut labore et ddslore magna aliqua. Ut enim ad minim veniam, quis nostrud exercsfsation ullamco laboris assi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in volbcvbte velit esse cilldm doldsre eu fugiat nulla pafdgatur. Excepteur sint occaecat cupidatat non pident, sunt in culpa qui asafficia desert mollit anim id est lfdgarum.'
