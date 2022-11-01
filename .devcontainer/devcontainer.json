@@ -54,7 +54,8 @@
 				"ms-python.python",
 				"ms-python.vscode-pylance",
 				"davidanson.vscode-markdownlint",
-				"visualstudioexptteam.vscodeintellicode"
+				"visualstudioexptteam.vscodeintellicode",
+				"tamasfe.even-better-toml"
 			]
 		}
 	},
