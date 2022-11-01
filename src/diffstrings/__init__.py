@@ -1,1 +1,1 @@
-from color_diff import SequenceMatcher, diff_strings
+from .color_diff import SequenceMatcher, diff_strings
