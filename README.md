@@ -1,6 +1,8 @@
 # diffstrings
 
 [![Test](https://github.com/Uguudei/diffstrings/actions/workflows/test.yml/badge.svg)](https://github.com/Uguudei/diffstrings/actions/workflows/test.yml)
+[![Publish to PyPI](https://github.com/Uguudei/diffstrings/actions/workflows/publish.yml/badge.svg)](https://github.com/Uguudei/diffstrings/actions/workflows/publish.yml)
+[![Publish to TestPyPI](https://github.com/Uguudei/diffstrings/actions/workflows/publish-testpypi.yml/badge.svg)](https://github.com/Uguudei/diffstrings/actions/workflows/publish-testpypi.yml)
 [![PyPi Version](https://img.shields.io/pypi/v/diffstrings?color=blue)](https://pypi.org/project/diffstrings/)
 [![License](https://img.shields.io/github/license/Uguudei/diffstrings)](https://github.com/Uguudei/diffstrings/blob/main/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
