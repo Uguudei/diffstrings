@@ -7,10 +7,7 @@
 	],
 	"build": {
 		"context": "..",
-		"dockerfile": "Dockerfile",
-		"args": {
-			"NODE_VERSION": "lts/*"
-		}
+		"dockerfile": "Dockerfile"
 	},
 
 	// Configure tool-specific properties.
